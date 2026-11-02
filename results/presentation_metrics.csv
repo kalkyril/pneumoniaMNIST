@@ -1,0 +1,8 @@
+experiment,model,seed_condition,sgd_learning_rate,auc,accuracy,f1,brier,source_slide,provenance
+svm_baseline,SVM + PCA,not specified,,0.947,0.861,0.899,0.112,33,rounded values transcribed from presentation
+svm_baseline,SVM + HOG,not specified,,0.955,0.862,0.900,0.115,33,rounded values transcribed from presentation
+cnn_unseeded,CNN + SGD,off,0.05,0.9558,0.705,0.809,0.237,34,rounded values transcribed from presentation
+cnn_unseeded,CNN + Adam,off,,0.9579,0.822,0.875,0.143,34,rounded values transcribed from presentation
+cnn_seeded,CNN + SGD,on,0.05,0.9660,0.888,0.907,0.078,37,rounded values transcribed from presentation
+cnn_seeded,CNN + Adam,on,,0.9644,0.893,0.917,0.075,37,rounded values transcribed from presentation
+cnn_lower_lr,CNN + SGD,off,0.01,0.9491,0.758,0.838,,39,rounded values transcribed from presentation; Brier not reported

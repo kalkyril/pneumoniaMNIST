@@ -1,0 +1,4 @@
+model,seed_condition,time_seconds_min,time_seconds_max,source_slide,notes
+SVM + HOG,not specified,410,410,41,approximate reported pipeline time; hardware not documented
+CNN + SGD,on,40,40,41,approximate reported pipeline time; hardware not documented
+CNN + Adam,on,25,40,41,approximate reported pipeline time; hardware not documented

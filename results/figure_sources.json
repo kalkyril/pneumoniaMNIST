@@ -1,0 +1,74 @@
+[
+  {
+    "file": "assets/slide-curves/unseeded_sgd_loss.png",
+    "source_media": "ppt/media/image23.png",
+    "source_slide": 35,
+    "sha256": "cf7bc86d48013580b42d1c34111cd303d9d42e88d45ce877ceeb45b39e599294"
+  },
+  {
+    "file": "assets/slide-curves/unseeded_sgd_auc.png",
+    "source_media": "ppt/media/image24.png",
+    "source_slide": 35,
+    "sha256": "46870ed593b51526ced940685886e772d2ef095a9ecacf8d96e8ba66ec3a4105"
+  },
+  {
+    "file": "assets/slide-curves/unseeded_adam_loss.png",
+    "source_media": "ppt/media/image13.png",
+    "source_slide": 35,
+    "sha256": "f990743675ee3cdd242c42133cf6af1b4ea4da43bc3b7616b790656292708c1a"
+  },
+  {
+    "file": "assets/slide-curves/unseeded_adam_auc.png",
+    "source_media": "ppt/media/image17.png",
+    "source_slide": 35,
+    "sha256": "211a00aeb428ef4cc880e4bbeaccc8c03e5adad383e0bf8f5744405319d84894"
+  },
+  {
+    "file": "assets/slide-curves/seeded_sgd_loss.png",
+    "source_media": "ppt/media/image25.png",
+    "source_slide": 38,
+    "sha256": "b21e04f52b30b3f4d28ea4ab1b4cdacdb36930e260dfd77570b951d52beee15d"
+  },
+  {
+    "file": "assets/slide-curves/seeded_sgd_auc.png",
+    "source_media": "ppt/media/image26.png",
+    "source_slide": 38,
+    "sha256": "b328584333e945c52c8aa4cee3cb2a8e569fe705deab2855ff4c81b0de50f790"
+  },
+  {
+    "file": "assets/slide-curves/seeded_adam_loss.png",
+    "source_media": "ppt/media/image27.png",
+    "source_slide": 38,
+    "sha256": "4c8e50e7075121ff3a955b6e956efb7747eb387b9112b1cec5cc1c0ee38097a3"
+  },
+  {
+    "file": "assets/slide-curves/seeded_adam_auc.png",
+    "source_media": "ppt/media/image28.png",
+    "source_slide": 38,
+    "sha256": "b5ad01d917058d05324ee9e37b0af9a00087af565214f0cfa5bfea85d3f06ecc"
+  },
+  {
+    "file": "assets/slide-curves/lower_lr_sgd_loss.png",
+    "source_media": "ppt/media/image31.png",
+    "source_slide": 40,
+    "sha256": "66e0b0c2b2ac5a7d0848e4671ec9e394fba92b6c0d6b0313fdea35f8b2286268"
+  },
+  {
+    "file": "assets/slide-curves/lower_lr_sgd_auc.png",
+    "source_media": "ppt/media/image32.png",
+    "source_slide": 40,
+    "sha256": "dd0c9452e87a96d3a6e81d048c775ae441149ac7bc41b81040c0f88d1d59550d"
+  },
+  {
+    "file": "assets/slide-curves/lower_lr_adam_loss.png",
+    "source_media": "ppt/media/image29.png",
+    "source_slide": 40,
+    "sha256": "9187ad036f99ebb00817195e6fdad8a3f654c333dba23d3ec5bdea4ca5d7dab5"
+  },
+  {
+    "file": "assets/slide-curves/lower_lr_adam_auc.png",
+    "source_media": "ppt/media/image30.png",
+    "source_slide": 40,
+    "sha256": "c0cb1bd05a660c312559d048977535ab0a46af784cefdeb23e1a2be59821b1ea"
+  }
+]

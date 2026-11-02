@@ -1,0 +1,26 @@
+{
+  "original_presentation": {
+    "file": "Progetto CSL.pptx",
+    "sha256": "3223f5330b4471387b7932d6958f37aeb5b14fc05e39652d41a769df15dca448",
+    "slides": 42,
+    "included_in_repository": false,
+    "note": "Original editable source used during preparation; only the slide PDF is published."
+  },
+  "original_slide_export": {
+    "file": "pneumonia_MatteoLugli.pdf",
+    "sha256": "d5eb77cd9d09c534b19660a5fa7e8af62358ad04d91794449a9595f652de56a4",
+    "pages": 42
+  },
+  "original_code": {
+    "file": "archive/pneumonia_original.py",
+    "sha256": "d126806eb8c906da140a199cb89ddd09cd6c487bb4aaae47319d7da2fc8bfaff"
+  },
+  "local_dataset_verification": {
+    "archive": "pneumoniamnist.npz",
+    "md5": "28209eda62fecd6e6a2d98b1501bb15f",
+    "source": "official MedMNIST archive, verified from supplied local file",
+    "images_redistributed": false
+  },
+  "historical_results": "Rounded slide-table transcriptions; no raw predictions or original JSON histories supplied",
+  "new_full_training_run": false
+}

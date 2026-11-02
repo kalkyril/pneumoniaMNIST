@@ -1,0 +1,51 @@
+# macOS, editors, and Office lock files
+.DS_Store
+._*
+.vscode/
+.idea/
+~$*
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.cache/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Downloaded data, new runs, and model weights
+.medmnist/
+data/
+*.npz
+*.pt
+*.pth
+*.ckpt
+results_compact/
+results_runs/
+
+# LaTeX intermediates; keep the final report and slide PDF
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.xdv
+out/
+build/
+tmp/
+
+# Publish the slide PDF; keep the editable original private
+/Progetto CSL.pptx

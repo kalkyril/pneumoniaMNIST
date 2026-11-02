@@ -1,0 +1,10 @@
+# Snapshot read from the supplied .venv; the historical slide-run environment
+# was not recorded. Use Python 3.11 for a fresh environment.
+torch==2.8.0
+torchvision==0.23.0
+medmnist==3.0.2
+scikit-learn==1.6.1
+scikit-image==0.24.0
+numpy==2.0.2
+matplotlib==3.9.4
+tqdm==4.67.1
