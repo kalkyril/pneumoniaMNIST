@@ -3,11 +3,7 @@
 # PneumoniaMNIST: SVM vs. CNN
 
 **by Matteo Lugli**  
-Course: AI Assisted Computer Graphics | Prof. Fabio Pellacini  
-Università degli Studi di Modena e Reggio Emilia (UniMoRe)
-
-**Matteo Lugli**  
-Course: Computational and Statistical Learning | Profs. Marco Prato and Giorgia Franchini
+Course: Computational and Statistical Learning | Profs. Marco Prato and Giorgia Franchini  
 Università degli Studi di Modena e Reggio Emilia (UniMoRe)
 
 [Report (PDF)](PneumoniaMNIST_MatteoLugli.pdf) · [LaTeX source](PneumoniaMNIST_MatteoLugli.tex) · [Original slides (PDF)](pneumonia_MatteoLugli.pdf) · [Code](pneumonia.py) · [Results](results/)
