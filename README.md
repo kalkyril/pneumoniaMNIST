@@ -3,8 +3,8 @@
 # PneumoniaMNIST: SVM vs. CNN
 
 **Matteo Lugli**  
-Computational and Statistical Learning · UniMoRe  
-MSc in Mathematics (Data Science) [LM-40]
+Course: Computational and Statistical Learning | Profs. Marco Prato and Giorgia Franchini
+Università degli Studi di Modena e Reggio Emilia (UniMoRe)
 
 [Report (PDF)](PneumoniaMNIST_MatteoLugli.pdf) · [LaTeX source](PneumoniaMNIST_MatteoLugli.tex) · [Original slides (PDF)](pneumonia_MatteoLugli.pdf) · [Code](pneumonia.py) · [Results](results/)
 
